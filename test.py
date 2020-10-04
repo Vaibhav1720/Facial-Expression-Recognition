@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jun 29 21:39:39 2020
-
-@author: gupta
 """
 from keras.models import load_model
 from time import sleep
